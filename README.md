@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="0b45fd81-d81d-4616-aef1-c908dccefd49" src="https://github.com/user-attachments/assets/3d3cb0ca-26b0-4c54-82bf-dcca634af171" />
+
 # VirusTotal Scanner
 
 Программа для проверки файлов на вирусы через сервис VirusTotal.
